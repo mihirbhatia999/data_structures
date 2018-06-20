@@ -8,6 +8,5 @@
 7) Linked List 
 
 # SAT problem 
-
-
+Simple SAT problem solved using Python 
 
