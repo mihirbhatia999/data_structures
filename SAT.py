@@ -1,4 +1,3 @@
-#QUESTION 1 HOMEWORK 8------------------------------------------------------------------------
 import time
 import itertools
 import numpy as np
