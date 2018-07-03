@@ -1,4 +1,4 @@
-# HOMEWORK 1 Binary search
+#Binary search
 
 #start the binary sort function 
 def bsearch(a,e,index):
