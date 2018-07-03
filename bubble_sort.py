@@ -1,4 +1,4 @@
-#HOMEWORK 1 : QUESTION 1 - BUBBLE SORT
+# BUBBLE SORT
 
 #input no. of elemetns and the values into empty array a 
 a = []
@@ -28,20 +28,3 @@ for iteration in range(0,array_length):
 
 print("\n sorted array \n")
 print(a)
-    
-   
-    
-        
-        
-
-        
-             
-
-        
-
-        
-
-        
-
-        
-        
